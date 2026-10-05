@@ -1,0 +1,34 @@
+# Core
+numpy>=1.21
+pandas>=1.3
+scipy>=1.7
+
+# Machine Learning
+scikit-learn>=1.0
+lightgbm>=3.3
+xgboost>=1.6
+catboost>=1.0
+
+# Feature Selection (Wrapper/Instance-based)
+boruta>=0.3
+skrebate>=0.62
+arfs>=1.0
+
+# scikit-feature: install from source
+# pip install git+https://github.com/jundongl/scikit-feature.git
+
+# Imbalance handling
+imbalanced-learn>=0.9
+
+# Visualization
+matplotlib>=3.5
+seaborn>=0.11
+plotly>=5.0
+
+# Utilities
+pyyaml>=6.0
+tqdm>=4.60
+joblib>=1.1
+
+# Optional: R bridge
+# rpy2>=3.4
